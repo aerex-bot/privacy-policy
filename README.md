@@ -1,9 +1,6 @@
 # Aerex Bot Privacy Policy
 *Last Updated: 9/12/2021*
 
-> **🚧 Privacy Policy Under Construction 🚧**
-> While we are making our final changes to this new privacy policy, we will be updating this page frequently. This new privacy policy will be active on **Friday, September 17th, 2021**.
-
 ## Introduction:
 Welcome to Aerex's privacy policy! In this policy, we will go over what data the bot collects, how data is retained in our systems, how we get rid of our data, and how you can request data removal. If you have any questions, please [join our Discord server](https://discord.gg/BYuUvE4) and we'll be glad to help you out.
 

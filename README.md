@@ -2,7 +2,7 @@
 # Aerex Bot Privacy Policy
 *Last Updated: 11/22/2021*
 
-> **⚠️ Privacy Policy Refactor ⚠️**
+> **⚠️ Privacy Policy Refactor ⚠️**\
 > We have re-worded our data collection sections to make them clearer to the end user. Nothing new has been added and this policy covers the same materials as it did before.
 
 ## Introduction:
